@@ -1,5 +1,5 @@
 # 📈 excel-vlookup-data-mapping
-A project demonstrating practical data lookup, mapping, and automation using Excel’s VLOOKUP function.
+- A project demonstrating practical data lookup, mapping, and automation using Excel’s VLOOKUP function.
 
  - VLOOKUP can be used to connect, reference, and retrieve information across multiple datasets. The workbook contains raw tables along with several examples where VLOOKUP is applied to perform data mapping, validation, and automated lookups.
 
